@@ -1,0 +1,6 @@
+# Default ignored files
+*.pkl
+*.parquet
+*.json
+/shelf/
+/workspace.xml
